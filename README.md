@@ -31,7 +31,8 @@ X = value to set according the system
 ## Tools 
 TODO:
 ## Simple test routine
-
+TODO:
+- Cinebench
 ## Debloating tools 
 - [Windows AI remover](https://github.com/zoicware/RemoveWindowsAI)
 - [Chris Titus Tech's Windows Utility](https://github.com/christitustech/winutil)
