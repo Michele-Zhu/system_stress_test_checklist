@@ -33,10 +33,32 @@ TODO:
 ## Simple test routine
 TODO:
 - Cinebench
+
+# Random bonus
 ## Debloating tools 
 - [Windows AI remover](https://github.com/zoicware/RemoveWindowsAI)
 - [Chris Titus Tech's Windows Utility](https://github.com/christitustech/winutil)
-
-# Random bonus
+## Others
 - [markdown syntax](https://www.markdownguide.org/basic-syntax/#links)
+## TODOs
 - TODO: add github bonus scripts as modules to streamline tests
+- TODO: pin dependencies to make the test reproducible
+- make something similart to the following structure
+stress-test/
+├── README.md
+├── LICENSE
+├── docs/
+│   └── test-routines.md
+├── tests/
+│   ├── cpu/
+│   ├── memory/
+│   ├── disk/
+│   ├── gpu/
+│   └── network/
+├── scripts/
+│   ├── linux/
+│   └── windows/
+├── tools/
+│   └── checks/
+└── config/
+    └── profiles/
