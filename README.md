@@ -29,9 +29,7 @@ X = value to set according the system
 
 # Windows
 ## Tools 
-TODO:
 ## Simple test routine
-TODO:
 - Cinebench
 ## Debloating tools 
 - [Windows AI remover](https://github.com/zoicware/RemoveWindowsAI)
@@ -39,4 +37,3 @@ TODO:
 
 # Random bonus
 - [markdown syntax](https://www.markdownguide.org/basic-syntax/#links)
-- TODO: add github bonus scripts as modules to streamline tests
