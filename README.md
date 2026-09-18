@@ -19,6 +19,7 @@ Hardware currently checked in the routine:
 - [UNIGINE](https://benchmark.unigine.com/)
     `__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia ./valley` to force nvidia gpu usage
 - iperf3
+- OCCT Personal stress test
 For tools that only perfom a single read you can pair the watch command such as `watch -n 1 nvidia-smi`
 
 ## Simple test routine
